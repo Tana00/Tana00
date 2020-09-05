@@ -40,6 +40,15 @@
 
 ---
 
+### Languages and Tools:
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+
+<br />
+<br />
+
+---
+
 <details>
   <summary>:zap: Recent Github Activity</summary>
   
@@ -56,9 +65,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  ![Happiness's github stats](https://github-readme-stats.vercel.app/api?username=Tana00&show_icons=true&theme=radical)
-
-  <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+![Happiness's github stats](https://github-readme-stats.vercel.app/api?username=Tana00&show_icons=true&count_private=true&theme=radical)
 
 </details>
 
