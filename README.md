@@ -1,15 +1,15 @@
 ### Hi there, I'm Happiness - aka [pretty Developer][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://happiness-balogun-portfolio.netlify.app/)
+[![Website](https://img.shields.io/website?label=happiness-balogun-portfolio&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://happiness-balogun-portfolio.netlify.app/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/Golde_ee?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FGolde_ee&screen_name=Golde_ee)
 
 ## I'm a Developer, and part time Designer!
 
 - 🔭 I’m currently working on my [Portfolio][website]!
 - 🌱 I’m currently learning everything frontend 🤣
-- 👯 I’m looking to collaborate with other website creators
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to go to the beach to meditate / drums
+- 👯 I’m looking to collaborate with other frontend developers
+- 🥅 2020 Goals: Contribute to Open Source projects
+- ⚡ Fun fact: I love to go to the beach to meditate
 
 ### Connect with me:
 
@@ -58,7 +58,3 @@
 [twitter]: https://twitter.com/Golde_ee
 [instagram]: https://www.instagram.com/golde_ee/
 [linkedin]: https://www.linkedin.com/in/happiness-balogun-46226b149/
-[webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
-[jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
-[cssplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALSdvZuEh6gqQdmDoDIoqz4
-[reactplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAK4TdffpxKY3QGyHCpxFcQ0
