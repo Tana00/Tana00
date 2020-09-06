@@ -1,6 +1,6 @@
 ### Hi there, I'm Happiness - aka [pretty Developer][website] 👋
 
-<!-- [![Website](https://competent-lumiere-ba56a6.netlify.app/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com) -->
+[![Website](https://competent-lumiere-ba56a6.netlify.app/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
 
 ## I'm a Developer, and part time Designer!
 
@@ -45,19 +45,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tana00)](https://github.com/Tana00/github-readme-stats)
 
 ---
-
-<!-- <details>
-  <summary>:zap: Recent Github Activity</summary> -->
-  
-<!--START_SECTION:activity-->
-<!-- 1. 💪 Opened PR [#6](https://github.com//colbyfayock/50-projects-for-react-and-the-static-web/pull/6) in [colbyfayock/50-projects-for-react-and-the-static-web](https://github.com//colbyfayock/50-projects-for-react-and-the-static-web)
-2. 🗣 Commented on [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-3. 🗣 Commented on [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-4. 💪 Opened PR [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/pull/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-5. ❗️ Closed issue [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme) -->
-<!--END_SECTION:activity-->
-
-<!-- </details> -->
 
 <details>
   <summary>:zap: Github Stats</summary>
