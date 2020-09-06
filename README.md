@@ -1,6 +1,6 @@
 ### Hi there, I'm Happiness - aka [pretty Developer][website] 👋
 
-[![Website](https://competent-lumiere-ba56a6.netlify.app/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
+[![Website](https://happiness-balogun-portfolio.netlify.app/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://happiness-balogun-portfolio.netlify.app/)
 
 ## I'm a Developer, and part time Designer!
 
