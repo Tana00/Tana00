@@ -5,10 +5,10 @@
 
 ## I'm a Developer, and a part time Designer!
 
-- 🔭 I’m currently working on my [Portfolio][website]!
+- 🔭 I’m currently learning Goland!
 - 🌱 I’m currently learning everything frontend 🤣
 - 👯 I’m looking to collaborate with other frontend developers
-- 🥅 2020 Goals: Contribute to Open Source projects
+- 🥅 2024 Goals: Contribute to Open Source projects
 - ⚡ Fun fact: I love to go to the beach to meditate
 
 ### Connect with me:
